@@ -1,0 +1,342 @@
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\ApplicationInsights.config
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\csc.exe
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\System.Collections.Immutable.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\vbc.exe
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\VBCSCompiler.exe
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\VBCSCompiler.exe.config
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.ADMINISTRACAO.dll.config
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.ADMINISTRACAO.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.ADMINISTRACAO.pdb
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Antlr3.Runtime.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\AspNet.ScriptManager.jQuery.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\EntityFramework.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\EntityFramework.SqlServer.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.Web.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.WindowsServer.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.ApplicationInsights.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Google.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Newtonsoft.Json.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Owin.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\System.Web.Optimization.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\System.Web.Providers.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\WebGrease.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.Web.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.WindowsServer.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.ApplicationInsights.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\System.Web.Optimization.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Antlr3.Runtime.pdb
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Newtonsoft.Json.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\EntityFramework.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\EntityFramework.SqlServer.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\System.Web.Providers.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Google.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\obj\Debug\TI.MORADA.SOL.ADMINISTRACAO.csprojResolveAssemblyReference.cache
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\obj\Debug\TI.MORADA.SOL.ADMINISTRACAO.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\obj\Debug\TI.MORADA.SOL.ADMINISTRACAO.pdb
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.OBJETO.TRANSFERENCIA.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.REGRA.NEGOCIOS.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOLACESSO.DADOS.dll
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.OBJETO.TRANSFERENCIA.pdb
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.REGRA.NEGOCIOS.pdb
+C:\Projetos\Git\MORADA SOL TRANSPARENCIA\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOLACESSO.DADOS.pdb
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\ApplicationInsights.config
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\csc.exe
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\vbc.exe
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\VBCSCompiler.exe
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.ADMINISTRACAO.dll.config
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.ADMINISTRACAO.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.ADMINISTRACAO.pdb
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Antlr3.Runtime.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\EntityFramework.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\EntityFramework.SqlServer.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.Web.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.ApplicationInsights.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Newtonsoft.Json.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Owin.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\System.Web.Optimization.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\System.Web.Providers.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.OBJETO.TRANSFERENCIA.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.REGRA.NEGOCIOS.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\WebGrease.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOLACESSO.DADOS.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.OBJETO.TRANSFERENCIA.pdb
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.REGRA.NEGOCIOS.pdb
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.Web.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.ApplicationInsights.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\System.Web.Optimization.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Antlr3.Runtime.pdb
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Newtonsoft.Json.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\EntityFramework.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\EntityFramework.SqlServer.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\System.Web.Providers.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOLACESSO.DADOS.pdb
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\obj\Debug\TI.MORADA.SOL.ADMINISTRACAO.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\obj\Debug\TI.MORADA.SOL.ADMINISTRACAO.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL-master\TI.MORADA.SOL.ADMINISTRACAO\obj\Debug\TI.MORADA.SOL.ADMINISTRACAO.pdb
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\ApplicationInsights.config
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\csc.exe
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\vbc.exe
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\VBCSCompiler.exe
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.ADMINISTRACAO.dll.config
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.ADMINISTRACAO.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.ADMINISTRACAO.pdb
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Antlr3.Runtime.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\EntityFramework.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\EntityFramework.SqlServer.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.Web.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.ApplicationInsights.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Newtonsoft.Json.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Owin.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\System.Web.Optimization.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\System.Web.Providers.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.OBJETO.TRANSFERENCIA.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.REGRA.NEGOCIOS.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\WebGrease.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOLACESSO.DADOS.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.OBJETO.TRANSFERENCIA.pdb
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.REGRA.NEGOCIOS.pdb
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.Web.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.ApplicationInsights.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\System.Web.Optimization.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Antlr3.Runtime.pdb
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Newtonsoft.Json.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\EntityFramework.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\EntityFramework.SqlServer.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\System.Web.Providers.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOLACESSO.DADOS.pdb
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\obj\Debug\TI.MORADA.SOL.ADMINISTRACAO.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\obj\Debug\TI.MORADA.SOL.ADMINISTRACAO.dll
+C:\Users\andre\Desktop\Publish\MORADA TRANSP\TI.MORADA.SOL-master\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\obj\Debug\TI.MORADA.SOL.ADMINISTRACAO.pdb
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\ApplicationInsights.config
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\csc.exe
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\System.Collections.Immutable.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\System.Reflection.Metadata.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\vbc.exe
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\VBCSCompiler.exe
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\roslyn\VBCSCompiler.exe.config
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.ADMINISTRACAO.dll.config
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.ADMINISTRACAO.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.ADMINISTRACAO.pdb
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Antlr3.Runtime.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\AspNet.ScriptManager.bootstrap.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\AspNet.ScriptManager.jQuery.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\EntityFramework.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\EntityFramework.SqlServer.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.Agent.Intercept.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.DependencyCollector.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.Web.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.WindowsServer.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.ApplicationInsights.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.Core.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Cookies.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Facebook.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Google.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.OAuth.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Twitter.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.ScriptManager.WebForms.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Web.Infrastructure.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Newtonsoft.Json.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Owin.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\System.Web.Optimization.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\System.Web.Providers.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.OBJETO.TRANSFERENCIA.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.REGRA.NEGOCIOS.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\WebGrease.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOLACESSO.DADOS.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.OBJETO.TRANSFERENCIA.pdb
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOL.REGRA.NEGOCIOS.pdb
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.DependencyCollector.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.Web.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AI.WindowsServer.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.ApplicationInsights.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\System.Web.Optimization.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Antlr3.Runtime.pdb
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Newtonsoft.Json.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\EntityFramework.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\EntityFramework.SqlServer.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.Core.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\System.Web.Providers.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Facebook.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Cookies.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Google.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.Twitter.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\Microsoft.Owin.Security.OAuth.xml
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\bin\TI.MORADA.SOLACESSO.DADOS.pdb
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\obj\Debug\TI.MORADA.SOL.ADMINISTRACAO.csprojAssemblyReference.cache
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\obj\Debug\TI.MORADA.SOL.ADMINISTRACAO.csproj.CoreCompileInputs.cache
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\obj\Debug\TI.MORADA.SOL.ADMINISTRACAO.csproj.CopyComplete
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\obj\Debug\TI.MORADA.SOL.ADMINISTRACAO.dll
+C:\HOME AUTOCOM\TI.MORADA.SOL.UI\TI.MORADA.SOL.ADMINISTRACAO\obj\Debug\TI.MORADA.SOL.ADMINISTRACAO.pdb

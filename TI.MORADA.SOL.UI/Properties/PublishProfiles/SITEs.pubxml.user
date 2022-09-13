@@ -1,0 +1,718 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Windows\Desktop\PUBLISH\TRANSPARENCIAS</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Account/Confirm.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Account/Login.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Alterar/TipoUsuario.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Alterar/Usuario.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="ApplicationInsights.config">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Arquivos/Imagem/Default/logo.png">
+      <publishTime>03/11/2017 07:52:10</publishTime>
+    </File>
+    <File Include="Arquivos/Imagem/Default/upload-icon.png">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Arquivos/PDFs/decreto mandar c.pdf">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Arquivos/PDFs/lei mandar c.pdf">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Arquivos/Portifolios/Obras/1.jpeg">
+      <publishTime>10/09/2018 14:41:44</publishTime>
+    </File>
+    <File Include="Arquivos/Portifolios/Obras/13.jpeg">
+      <publishTime>10/09/2018 14:38:16</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/1/17/2.2.1.docx">
+      <publishTime>04/09/2018 18:12:00</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/1/4/0318-127.pdf">
+      <publishTime>05/09/2018 16:06:16</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/1/4/0318-130.pdf">
+      <publishTime>05/09/2018 16:10:33</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/1/4/0318-138.pdf">
+      <publishTime>05/09/2018 16:08:16</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/1/4/15. 24 de maio 2018.pdf">
+      <publishTime>05/09/2018 16:12:21</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/1/4/16. 26 de abril 2018.pdf">
+      <publishTime>05/09/2018 16:14:19</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/1/4/2.4.2 Relatorios dos Resultados dos Programas Projetos e Acoes.pdf">
+      <publishTime>05/09/2018 16:00:01</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/1/4/Relatorio Auditoria Independente 2017.pdf">
+      <publishTime>05/09/2018 15:58:39</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/0/2017/PDF/2.2.10 - Transferências de Recursos para Pessoa Física ou Jurídica.pdf">
+      <publishTime>04/09/2018 22:35:37</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/0/2017/PDF/2.2.11 - Editais de Licitação, Dispensa ou Inexigibilidade.pdf">
+      <publishTime>04/09/2018 22:35:37</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/0/2017/PDF/2.2.12 - Editais de Licitação, Dispensa ou Inexigibilidade %28Encerrados%29.pdf">
+      <publishTime>04/09/2018 22:35:37</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/0/2017/PDF/2.2.15 - Emissão de Certificados de Ações.pdf">
+      <publishTime>04/09/2018 22:35:37</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/0/2017/PDF/2.2.16 - Projetos Apresentados, Aprovados ou Reprovados.pdf">
+      <publishTime>04/09/2018 22:35:37</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/0/2018/PDF/2.2.1 - Texto das leis Orçamentarias e Dotações Previstas.pdf">
+      <publishTime>04/09/2018 22:34:47</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/0/2018/PDF/2.2.10 - Transferências de Recursos para Pessoa Física ou Jurídica.pdf">
+      <publishTime>04/09/2018 22:34:47</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/0/2018/PDF/2.2.11 - Editais de Licitação, Dispensa ou Inexigibilidade.pdf">
+      <publishTime>04/09/2018 22:34:47</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/0/2018/PDF/2.2.12 - Editais de Licitação, Dispensa ou Inexigibilidade %28Encerrados%29.pdf">
+      <publishTime>04/09/2018 22:34:47</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/0/2018/PDF/2.2.15 - Emissão de Certificados de Ações.pdf">
+      <publishTime>04/09/2018 22:34:47</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/0/2018/PDF/2.2.16 - Projetos Apresentados, Aprovados ou Reprovados.pdf">
+      <publishTime>04/09/2018 22:34:47</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/0/2018/PDF/2.2.3 - Doações, Financiamentos, Convênios, Benefícios Fiscais.pdf">
+      <publishTime>04/09/2018 22:34:47</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/0/2018/PDF/2.2.6 - Balanços Anuais - Orçamentário.pdf">
+      <publishTime>04/09/2018 22:34:47</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/0/2018/PDF/2.2.9 - Entidades do Terceiro Setor com Contrato Gestão ou Parceria.pdf">
+      <publishTime>04/09/2018 22:34:47</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/1/2017/1 - RECEITA ABERTURA JANEIRO 2017.xlsx">
+      <publishTime>04/09/2018 18:12:44</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/1/2017/2 - RECEITA ABERTURA FEVEREIRO 2017.xlsx">
+      <publishTime>04/09/2018 18:16:19</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/1/2017/PDF/aplicação abr 2017.pdf">
+      <publishTime>05/09/2018 09:15:08</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/1/2017/PDF/aplicação fev 2017.pdf">
+      <publishTime>05/09/2018 09:15:08</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/1/2017/PDF/aplicação jun 2017.pdf">
+      <publishTime>05/09/2018 09:15:08</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/1/2017/PDF/aplicação nov 2017.pdf">
+      <publishTime>05/09/2018 09:15:08</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/1/2018/1 - RECEITA ABERTURA JANEIRO 2018.xlsx">
+      <publishTime>04/09/2018 21:35:38</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/1/2018/PDF/0618-146.pdf">
+      <publishTime>05/09/2018 09:54:06</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/1/2018/PDF/0618-150.pdf">
+      <publishTime>05/09/2018 09:54:06</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/1/2018/PDF/0618-48.pdf">
+      <publishTime>05/09/2018 09:54:06</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/1/2018/PDF/0618-64.pdf">
+      <publishTime>05/09/2018 09:54:06</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/16/2.2.16.docx">
+      <publishTime>05/09/2018 13:19:02</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/2/2017/Balancete Morada 01-2017 a 11-2017.pdf">
+      <publishTime>04/09/2018 23:16:33</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/2/2017/PDF/15. 24 de maio 2018.pdf">
+      <publishTime>05/09/2018 16:44:12</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/2/2017/PDF/2.4.2 - Relatórios dos Resultados dos Programas, Projetos e Ações.pdf">
+      <publishTime>05/09/2018 16:45:59</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/2/2017/PDF/2.4.5 - Convênios.pdf">
+      <publishTime>05/09/2018 16:45:59</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/2/2018/_01 - ABERTURA JANEIRO DE 2017.xlsx">
+      <publishTime>05/09/2018 09:19:21</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/3/2.2.1.docx">
+      <publishTime>04/09/2018 18:19:33</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/6/Balanço Anual - Financeiro/Balanço Financeiro.xlsx">
+      <publishTime>04/09/2018 21:54:56</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/2/6/Balanço Anual - Orçamentario/Balanço patrimoniaI 2017.pdf">
+      <publishTime>04/09/2018 21:50:47</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/4/26/Demonstrativo de Despesas com Pessoal.xlsx">
+      <publishTime>04/09/2018 21:36:35</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/4/27/2.4.2 Relatorios dos Resultados dos Programas Projetos e Acoes.pdf">
+      <publishTime>05/09/2018 09:28:05</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/4/28/AVCB.pdf">
+      <publishTime>05/09/2018 09:30:21</publishTime>
+    </File>
+    <File Include="Arquivos/Transparencias/4/28/Relatorio Auditoria Independente 2017.pdf">
+      <publishTime>05/09/2018 09:29:48</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.bootstrap.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.jQuery.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Web.Optimization.WebForms.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.MSAjax.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.WebForms.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.Providers.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/TI.MORADA.SOL.OBJETO.TRANSFERENCIA.dll">
+      <publishTime>01/13/2022 15:46:30</publishTime>
+    </File>
+    <File Include="bin/TI.MORADA.SOL.OBJETO.TRANSFERENCIA.pdb">
+      <publishTime>01/13/2022 15:46:30</publishTime>
+    </File>
+    <File Include="bin/TI.MORADA.SOL.REGRA.NEGOCIOS.dll">
+      <publishTime>01/13/2022 15:46:31</publishTime>
+    </File>
+    <File Include="bin/TI.MORADA.SOL.REGRA.NEGOCIOS.pdb">
+      <publishTime>01/13/2022 15:46:31</publishTime>
+    </File>
+    <File Include="bin/TI.MORADA.SOL.UI.dll">
+      <publishTime>01/13/2022 16:27:33</publishTime>
+    </File>
+    <File Include="bin/TI.MORADA.SOL.UI.pdb">
+      <publishTime>01/13/2022 16:27:33</publishTime>
+    </File>
+    <File Include="bin/TI.MORADA.SOLACESSO.DADOS.dll">
+      <publishTime>01/13/2022 15:46:30</publishTime>
+    </File>
+    <File Include="bin/TI.MORADA.SOLACESSO.DADOS.pdb">
+      <publishTime>01/13/2022 15:46:30</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="bin/WebMatrix.Data.dll">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Bundle.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Cadastros/Agenda.aspx">
+      <publishTime>11/22/2021 18:07:52</publishTime>
+    </File>
+    <File Include="Cadastros/Contratos/Css/Cad.css">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Contratos/PreContrato.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Contratos/PreContratoCessao.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/bootstrap-wysiwyg.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-apollo.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-basic.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-clj.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-css.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-dart.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-erlang.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-go.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-hs.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-lisp.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-llvm.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-lua.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-matlab.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-ml.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-mumps.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-n.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-pascal.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-proto.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-r.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-rd.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-scala.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-sql.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-tcl.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-tex.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-vb.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-vhdl.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-wiki.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-xq.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/lang-yaml.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/prettify.css">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/prettify.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/google-code-prettify/run_prettify.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/external/jquery.hotkeys.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Css/index.css">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Diretoria.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Fotos.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Lei.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Login.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Texto.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/TextoPortifolio.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/TipoUsuario.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Transparencia.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Cadastros/Video.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Close.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Contact.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Content/assents/img/Icon/Adobe-PDF-Document-icon.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/assents/img/Icon/delete-file-icon.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/assents/img/Icon/document-arrow-up-icon.png">
+      <publishTime>04/06/2018 11:21:56</publishTime>
+    </File>
+    <File Include="Content/assents/img/Icon/Files-New-File-icon.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/assents/img/Icon/Upload-Folder-icon.png">
+      <publishTime>04/06/2018 16:47:36</publishTime>
+    </File>
+    <File Include="Content/assents/img/Icon/view-icon.png">
+      <publishTime>04/06/2018 17:15:04</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>04/09/2021 16:27:58</publishTime>
+    </File>
+    <File Include="Error.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Forms/Arquivos/Transparencias.aspx">
+      <publishTime>05/12/2020 12:27:52</publishTime>
+    </File>
+    <File Include="Forms/LeiAcessoInformacao.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Forms/Views/Agenda.aspx">
+      <publishTime>01/13/2022 16:05:54</publishTime>
+    </File>
+    <File Include="Forms/Views/AgendaCalendario.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Forms/Views/AgendamentoEventos.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Forms/Views/Calendar.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Forms/Views/Calendario.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Forms/Views/DadosAgenda.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Forms/Views/TipoUsuario.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Forms/Views/Transparencias.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Forms/Views/Usuario.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Mensagem.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Menu.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="PaginaError.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/ai.0.22.9-build00167.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/ai.0.22.9-build00167.min.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/DetailsView.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/Focus.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/GridView.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/Menu.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MenuStandards.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjax.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxApplicationServices.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxComponentModel.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxCore.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxGlobalization.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxHistory.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxNetwork.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxSerialization.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxTimer.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebForms.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebServices.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/SmartNav.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/TreeView.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebForms.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebParts.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebUIValidation.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>01/13/2022 16:19:20</publishTime>
+    </File>
+    <File Include="UpLoads/Transparencia.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="UpLoads/TransparenciaPDF.aspx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="ViewSwitcher.ascx">
+      <publishTime>03/27/2020 07:58:14</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/13/2022 16:27:35</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

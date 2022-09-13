@@ -1,0 +1,293 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="TI.MORADA.SOL.UI.SiteMaster" %>
+
+<!DOCTYPE html>
+<%--TRANSP--%>
+<%--15--%>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - Morada Transparência</title>
+
+    <link href="Content/Site.css" rel="stylesheet" />
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+</head>
+<body>
+
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see http://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="respond" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+
+        <asp:Panel ID="Panel1" runat="server">
+            <div class="navbar navbar-inverse navbar-fixed-top">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" runat="server" href="~/Default.aspx">Transparência Morada do Sol</a>
+                    </div>
+                    <div class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav">
+
+                            <li class="dropdown dropdown-submenu">
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li><a runat="server" href="~/Forms/LeiAcessoInformacao.aspx">Acesso a Informação</a></li>
+                                </ul>
+                            </li>
+
+                            <li class="dropdown dropdown-submenu">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Cadastros</a>
+                                <ul class="dropdown-menu">
+                                    <li><a runat="server" href="~/Cadastros/Login.aspx">Usuário</a></li>
+                                    <li><a runat="server" href="~/Cadastros/TipoUsuario.aspx">Tipo de Usuário</a></li>
+                                    <li><a runat="server" href="~/Cadastros/Lei.aspx">Lei</a></li>
+                                    <li><a runat="server" href="~/Cadastros/Fotos.aspx">Fotos</a></li>
+                                    <li><a runat="server" href="~/Cadastros/Agenda.aspx">Agenda Eventos</a></li>
+                                    <li><a runat="server" href="~/Cadastros/Diretoria.aspx">Diretoria</a></li>
+                                    <li><a runat="server" href="~/Cadastros/Video.aspx">Videos</a></li>
+                                </ul>
+                            </li>
+
+                            <li class="dropdown dropdown-submenu">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pesquisar</a>
+                                <ul class="dropdown-menu">
+                                    <li><a runat="server" href="~/Forms/Views/Usuario.aspx">Usuário</a></li>
+                                    <li><a runat="server" href="~/Forms/Views/TipoUsuario.aspx">Tipo de Usuário</a></li>
+                                    <li><a runat="server" href="~/Forms/Views/AgendamentoEventos.aspx">Agenda de Eventos</a></li>
+                                </ul>
+                            </li>
+
+                            <li class="dropdown dropdown-submenu">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Agenda</a>
+                                <ul class="dropdown-menu">
+                                    <li><a runat="server" href="~/Forms/Views/Agenda.aspx">Dados Agenda</a></li>
+                                    <li><a runat="server" href="~/Forms/Views/AgendaCalendario.aspx">Calendário</a></li>
+                                    <li><a runat="server" href="http://agenda.moradaturismoeventos.com.br" target="_blank">Agenda</a></li>
+                                </ul>
+                            </li>
+
+                        </ul>
+                        <asp:LoginView runat="server" ViewStateMode="Disabled">
+                            <AnonymousTemplate>
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li><a runat="server" href="~/Account/Login">Log Out</a></li>
+                                    <li><a runat="server" href="~/Close.aspx">Sair</a></li>
+                                </ul>
+                            </AnonymousTemplate>
+                            <LoggedInTemplate>
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li><a runat="server" href="~/Account/Manage" title="Manage your account">Hello, <%: Context.User.Identity.GetUserName()  %> !</a></li>
+                                    <li>
+                                        <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" OnLoggingOut="Unnamed_LoggingOut" />
+                                    </li>
+                                </ul>
+                            </LoggedInTemplate>
+                        </asp:LoginView>
+                    </div>
+                </div>
+            </div>
+        </asp:Panel>
+
+        <asp:Panel ID="Panel2" runat="server">
+            <div class="navbar navbar-inverse navbar-fixed-top">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" runat="server" href="~/Default.aspx">Transparência Morada do Sol</a>
+                    </div>
+                    <div class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav">
+
+                            <li class="dropdown dropdown-submenu">
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li><a runat="server" href="~/Forms/LeiAcessoInformacao.aspx">Acesso a Informação</a></li>
+                                </ul>
+                            </li>
+
+                            <li class="dropdown dropdown-submenu">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Cadastros</a>
+                                <ul class="dropdown-menu">
+                                    <li><a runat="server" href="~/Cadastros/Lei.aspx">Lei</a></li>
+                                    <li><a runat="server" href="~/Cadastros/Fotos.aspx">Fotos</a></li>
+                                    <li><a runat="server" href="~/Cadastros/Agenda.aspx">Agenda Eventos</a></li>
+                                    <li><a runat="server" href="~/Cadastros/Video.aspx">Videos</a></li>
+                                </ul>
+                            </li>
+
+                            <li class="dropdown dropdown-submenu">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Agenda</a>
+                                <ul class="dropdown-menu">
+                                    <li><a runat="server" href="~/Forms/Views/Agenda.aspx">Dados Agenda</a></li>
+                                    <li><a runat="server" href="~/Forms/Views/AgendaCalendario.aspx">Calendário</a></li>
+                                    <li><a runat="server" href="http://agenda.moradaturismoeventos.com.br" target="_blank">Agenda</a></li>
+                                </ul>
+                            </li>
+
+                        </ul>
+                        <asp:LoginView runat="server" ViewStateMode="Disabled">
+                            <AnonymousTemplate>
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li><a runat="server" href="~/Account/Login">Log Out</a></li>
+                                    <li><a runat="server" href="~/Close.aspx">Sair</a></li>
+                                </ul>
+                            </AnonymousTemplate>
+                            <LoggedInTemplate>
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li><a runat="server" href="~/Account/Manage" title="Manage your account">Hello, <%: Context.User.Identity.GetUserName()  %> !</a></li>
+                                    <li>
+                                        <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" OnLoggingOut="Unnamed_LoggingOut" />
+                                    </li>
+                                </ul>
+                            </LoggedInTemplate>
+                        </asp:LoginView>
+                    </div>
+                </div>
+            </div>
+        </asp:Panel>
+
+        <asp:Panel ID="Panel3" runat="server">
+            <div class="navbar navbar-inverse navbar-fixed-top">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" runat="server" href="~/">Transparência Morada do Sol</a>
+                    </div>
+                    <div class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav">
+
+                            <%--  <li><a runat="server" href="http://moradaturismoeventos.com.br">Site</a></li>--%>
+                            <li class="dropdown dropdown-submenu">
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li><a runat="server" href="~/Forms/LeiAcessoInformacao.aspx">Acesso a Informação</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <asp:LoginView runat="server" ViewStateMode="Disabled">
+                            <AnonymousTemplate>
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li><a runat="server" href="~/Account/Login">Log Out</a></li>
+                                    <li><a runat="server" href="~/Close.aspx">Sair</a></li>
+                                </ul>
+                            </AnonymousTemplate>
+                            <LoggedInTemplate>
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li><a runat="server" href="~/Account/Manage" title="Manage your account">Hello, <%: Context.User.Identity.GetUserName()  %> !</a></li>
+                                    <li>
+                                        <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" OnLoggingOut="Unnamed_LoggingOut" />
+                                    </li>
+                                </ul>
+                            </LoggedInTemplate>
+                        </asp:LoginView>
+                    </div>
+                </div>
+            </div>
+        </asp:Panel>
+
+        <asp:Panel ID="Panel4" runat="server">
+            <div class="navbar navbar-inverse navbar-fixed-top">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" runat="server" href="~/">Transparência Morada do Sol</a>
+                    </div>
+                    <div class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav">
+
+                            <%--  <li><a runat="server" href="http://moradaturismoeventos.com.br">Site</a></li>--%>
+                            <li class="dropdown dropdown-submenu">
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li><a runat="server" href="~/Forms/LeiAcessoInformacao.aspx">Acesso a Informação</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <asp:LoginView runat="server" ViewStateMode="Disabled">
+                            <AnonymousTemplate>
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li><a runat="server" href="~/Account/Login">Log in</a></li>
+                                </ul>
+                            </AnonymousTemplate>
+                            <LoggedInTemplate>
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li><a runat="server" href="~/Account/Manage" title="Manage your account">Hello, <%: Context.User.Identity.GetUserName()  %> !</a></li>
+                                    <li>
+                                        <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" OnLoggingOut="Unnamed_LoggingOut" />
+                                    </li>
+                                </ul>
+                            </LoggedInTemplate>
+                        </asp:LoginView>
+                    </div>
+                </div>
+            </div>
+        </asp:Panel>
+
+        <div class="container body-content">
+
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+
+            <hr />
+
+            <footer>
+                <p>&copy; <%: DateTime.Now.Year %> - TI Solutions Services Applicattion Commerce - 10.96</p>
+                <hr />
+
+            </footer>
+
+
+            <asp:Panel ID="pnlRodape" runat="server">
+
+
+
+                <%--                <div align="center">
+                    <div id="sfckcxqheuu9k4g2a7875g51ax3jzkm7p27"></div>
+                    <script type="text/javascript" src="https://counter4.whocame.ovh/private/counter.js?c=kcxqheuu9k4g2a7875g51ax3jzkm7p27&down=async" async>
+                    </script>
+                    <br />
+                    <noscript>
+                        <a href="https://www.webcontadores.com" title="contador de visitas no blog">
+                            <img src="https://counter4.whocame.ovh/private/webcontadores.php?c=kcxqheuu9k4g2a7875g51ax3jzkm7p27" border="0" title="contador de visitas no blog" alt="contador de visitas no blog" />
+                        </a>
+                    </noscript>
+                </div>--%>
+            </asp:Panel>
+        </div>
+
+    </form>
+
+</body>
+</html>
