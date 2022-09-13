@@ -51,7 +51,6 @@
                         <strong>E-Mail:</strong>
                         <a href="mailto:contato@cearararaquara.com.br">contato@cearararaquara.com.br</a><br />
                     </p>
-
                 </div>
 
                 <div class="col-md-2" style="cursor: pointer">
@@ -63,9 +62,10 @@
                         <asp:Image ID="Image2" runat="server" Width="100%" src="http://transparencia.moradaturismoeventos.com.br/Arquivos/Portifolios/QRCodeCear.jpg" alt="Responsive image" /><br />
                     </a>
                 </div>
-
             </div>
+
             <hr />
+
             <div class="col-lg-10 ">
                 <b>
                     <asp:Label ID="lblLogin" CssClass="text-success" runat="server" Text="OPERADOR(A): ..."></asp:Label>
